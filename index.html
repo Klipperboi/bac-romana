@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English&family=EB+Garamond:wght@400;500;600;700&family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23FAF7F1'/%3E%3Ctext x='32' y='47' text-anchor='middle' font-family='Georgia,serif' font-size='48' font-weight='bold' fill='%23970304'%3EB%3C/text%3E%3C/svg%3E">
+
+    <title>Bac Română</title>
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked@15.0.12/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.6/dist/purify.min.js"></script>
+
+</head>
+
+<body>
+
+    <aside class="sidebar" id="sidebar">
+        <h2>Cuprins</h2>
+
+        <nav class="toc">
+
+            <div class="toc-group">
+                <button class="toc-toggle" type="button" aria-expanded="true" aria-controls="menu-enigma">
+                    <span>Enigma Otiliei</span>
+                    <span class="toc-arrow">+</span>
+                </button>
+
+                <div class="toc-submenu" id="menu-enigma">
+                    <a href="#enigma-otiliei-lectie"><span>Lecție</span></a>
+                    <a href="#enigma-otiliei-secvente"><span>Secvențe</span></a>
+                    <a href="#enigma-otiliei-eseu"><span>Eseu</span></a>
+                </div>
+            </div>
+
+            <div class="toc-group">
+                <button class="toc-toggle" type="button" aria-expanded="false" aria-controls="menu-ultima">
+                    <span>Ultima noapte</span>
+                    <span class="toc-arrow">+</span>
+                </button>
+
+                <div class="toc-submenu" id="menu-ultima" hidden>
+                    <a href="#ultima-noapte-lectie"><span>Lecție</span></a>
+                    <a href="#ultima-noapte-secvente"><span>Secvențe</span></a>
+                    <a href="#ultima-noapte-eseu"><span>Eseu</span></a>
+                </div>
+            </div>
+
+        </nav>
+    </aside>
+
+    <header class="mobile-header">
+        <span>Bacalaureat · Română</span>
+        <button id="menu-toggle" type="button" aria-label="Deschide cuprinsul" aria-expanded="false">☰</button>
+    </header>
+
+
+    <nav class="section-navigation" id="section-navigation" hidden>
+        <select id="section-select" aria-label="Navigare între secțiuni">
+            <option value="">Selectează secțiunea</option>
+        </select>
+    </nav>
+
+
+<main class="main">
+    <article class="content-box" id="enigma-otiliei-lectie" data-file="enigma-otiliei.txt" data-section="lectie">
+        <header class="work-header">
+            <h1>Enigma Otiliei</h1>
+            <h2>George Călinescu · Lecție</h2>
+            <div class="work-divider"></div>
+            <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
+        </header>
+        <div class="text-content"></div>
+    </article>
+
+    <article class="content-box" id="enigma-otiliei-secvente" data-file="enigma-otiliei.txt" data-section="secvente">
+        <header class="work-header">
+            <h1>Enigma Otiliei</h1>
+            <h2>George Călinescu · Secvențe</h2>
+            <div class="work-divider"></div>
+            <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
+        </header>
+        <div class="text-content"></div>
+    </article>
+
+    <article class="content-box" id="enigma-otiliei-eseu" data-file="enigma-otiliei.txt" data-section="eseu">
+        <header class="work-header">
+            <h1>Enigma Otiliei</h1>
+            <h2>George Călinescu · Eseu</h2>
+            <div class="work-divider"></div>
+            <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
+        </header>
+        <div class="text-content"></div>
+    </article>
+
+    <article class="content-box" id="ultima-noapte-lectie" data-file="ultima-noapte.txt" data-section="lectie">
+        <header class="work-header">
+            <h1>Ultima noapte</h1>
+            <h2>Camil Petrescu · Lecție</h2>
+            <div class="work-divider"></div>
+            <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
+        </header>
+        <div class="text-content"></div>
+    </article>
+
+    <article class="content-box" id="ultima-noapte-secvente" data-file="ultima-noapte.txt" data-section="secvente">
+        <header class="work-header">
+            <h1>Ultima noapte</h1>
+            <h2>Camil Petrescu · Secvențe</h2>
+            <div class="work-divider"></div>
+            <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
+        </header>
+        <div class="text-content"></div>
+    </article>
+
+    <article class="content-box" id="ultima-noapte-eseu" data-file="ultima-noapte.txt" data-section="eseu">
+        <header class="work-header">
+            <h1>Ultima noapte</h1>
+            <h2>Camil Petrescu · Eseu</h2>
+            <div class="work-divider"></div>
+            <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
+        </header>
+        <div class="text-content"></div>
+    </article>
+</main>
+
+
+<div class="floating-actions">
+        <button id="back-to-top" type="button" aria-label="Înapoi sus" title="Înapoi sus">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="m6 15 6-6 6 6"/>
+        </svg>
+    </button>
+
+    <button id="download-pdf" type="button" aria-label="Salvează PDF" title="Salvează PDF">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 3v12"/>
+            <path d="m7 10 5 5 5-5"/>
+            <path d="M5 17v4h14v-4"/>
+        </svg>
+    </button>
+</div>
+
+</body>
+</html>
