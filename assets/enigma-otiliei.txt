@@ -1,14 +1,14 @@
 
 === LECTIE ===
 
-# Cerința
+# Cerință
 
 Redactează un eseu de minimul 400 de cuvinte, în care să prezinți:
 - particularități de construcție a unui personaj dintr-un text narativ studiat, aparținând lui G. Călinescu
 - particularități ale unui text narativ studiat, aparținând lui G. Călinescu
 - particularități ale unui text narati studiat, aparținând realismului
 
-# Structura
+# Structură
 
 ## 1. Perioada interbelică
 
@@ -208,7 +208,7 @@ Tema principală a operei este ***moștenirea***, temă specifică realismului b
 
 **George Călinescu** este o personalitate enciclopedică a culturii române: critic literar și creator de ficțiune. Cele patru romane ale sale, „Cartea nunții”, „Enigma Otiliei”, „Bietul Ioanide” și „Scrinul negru” creează o imagine veridică a societății române la începutul secolului al XX-lea. Scriitorul consideră realismul ca fiind singurul curent adecvat pentru a înfățișa societatea românească.
 
-Romanul „Enigma Otiliei”, publicat în anul 1938, prezintă particularități ale **realismului balzacian**, printre care tematica socială, încadrarea personajelor într-o tipologie, definirea detaliată a cronotopului, corelația dintre mediu și personaj, viziunea critică asupra realității și caracterul documentar.
+Romanul „Enigma Otiliei”, publicat în anul 1928, prezintă particularități ale **realismului balzacian**, printre care tematica socială, încadrarea personajelor într-o tipologie, definirea detaliată a cronotopului, corelația dintre mediu și personaj, viziunea critică asupra realității și caracterul documentar.
 
 Opera realizează o monografie a societății românești la începutul secolului al XX-lea prin **temele abordate**, printre care se remarcă moștenirea, familia, maturizarea (caracteristică a Bildungsromanului), căsătoria și paternitatea din unghi economico-social și iubirea.
 
@@ -258,7 +258,7 @@ Otilia apare în text ca o enigmă, fiind numită astfel de către Felix și Pas
 
 ***Secvența ultimei întâlniri dintre Felix și Otilia*** ilustrează firea imprevizibilă și schimbătoare a celei din urmă. Aceasta se declară gata de a conviețui cu Felix chiar și fără căsătorie, o atitudine foarte curajoasă în vremea respectivă, iar tânărul consideră acest gest drept declarația supremă de dragoste. Totuși, în dimineața următoare, Otilia pleacă pe ascuns cu Pascalopol la Paris, lăsându-l pe Felix, încă o dată, bulversat de firea sa imprevizibilă și schimbătoare.
 
-
+### Încheiere
 
 Așadar, „Enigma Otiliei” este un roman realist în care personajul principal depășește granițele tipologiei, protagonista fiind construită prin modalități caracteristice realismului și alcătuită din contradicții.
 
@@ -276,6 +276,6 @@ Așadar, „Enigma Otiliei” este un roman realist în care personajul principa
 
 ***Episodul bolii lui moș Costache***, în urma căruia familia Tulea îi ocupă casa, dorind să se asigure că cei doi tineri nu capătă averea bătrânului pe ascuns, susține tema moștenirii, ilustrată prin dorința personajelor de a-și atribui cât mai mult din avere, dar și prin motivul naturalist al bolii.
 
-
+### Încheiere
 
 Așadar, „Enigma Otiliei” este un roman realist de tip balzacian, în care tema moștenirii evidențiază influența intereselor economice asupra relațiilor de familie. Prin tematica socială și prezentarea critică a personajelor, opera realizează o monografie a societății burgheze bucureștene de la începutul secolului al XX-lea.
