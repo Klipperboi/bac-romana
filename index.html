@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ro">
 <head>
@@ -20,20 +19,23 @@
 
 </head>
 
-<body>
 
+<body>
     <aside class="sidebar" id="sidebar">
         <h2>Cuprins</h2>
 
         <nav class="toc">
+            <div class="toc-group toc-home-group">
+                <a class="toc-home" href="#acasa">Acasă</a>
+            </div>
 
             <div class="toc-group">
-                <button class="toc-toggle" type="button" aria-expanded="true" aria-controls="menu-enigma">
+                <button class="toc-toggle" type="button" aria-expanded="false" aria-controls="menu-enigma">
                     <span>Enigma Otiliei</span>
                     <span class="toc-arrow">+</span>
                 </button>
 
-                <div class="toc-submenu" id="menu-enigma">
+                <div class="toc-submenu" id="menu-enigma" hidden>
                     <a href="#enigma-otiliei-lectie"><span>Lecție</span></a>
                     <a href="#enigma-otiliei-secvente"><span>Secvențe</span></a>
                     <a href="#enigma-otiliei-eseu"><span>Eseu</span></a>
@@ -64,8 +66,9 @@
                     <a href="#plumb-secvente"><span>Secvențe</span></a>
                     <a href="#plumb-eseu"><span>Eseu</span></a>
                 </div>
+            </div>
 
-                <div class="toc-group">
+            <div class="toc-group">
                 <button class="toc-toggle" type="button" aria-expanded="false" aria-controls="menu-testament">
                     <span>Testament</span>
                     <span class="toc-arrow">+</span>
@@ -76,8 +79,7 @@
                     <a href="#testament-secvente"><span>Secvențe</span></a>
                     <a href="#testament-eseu"><span>Eseu</span></a>
                 </div>
-
-
+            </div>
         </nav>
     </aside>
 
@@ -86,163 +88,160 @@
         <button id="menu-toggle" type="button" aria-label="Deschide cuprinsul" aria-expanded="false">☰</button>
     </header>
 
-
     <nav class="section-navigation" id="section-navigation" hidden>
         <select id="section-select" aria-label="Navigare între secțiuni">
             <option value="">Selectează secțiunea</option>
         </select>
     </nav>
 
+    <main class="main">
+        <article class="content-box" id="acasa" data-file="assets/acasa.txt" data-section="acasa">
+            <header class="work-header">
+                <h1>Bacalaureat</h1>
+                <h2>Limba și literatura română</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Lecții <span>/</span> Secvențe <span>/</span> Eseuri</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-<main class="main">
+        <article class="content-box" id="enigma-otiliei-lectie" data-file="assets/enigma-otiliei.txt" data-section="lectie">
+            <header class="work-header">
+                <h1>Enigma Otiliei</h1>
+                <h2>George Călinescu · Lecție</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-<!--ENIGMA OTILIEI-->
+        <article class="content-box" id="enigma-otiliei-secvente" data-file="assets/enigma-otiliei.txt" data-section="secvente">
+            <header class="work-header">
+                <h1>Enigma Otiliei</h1>
+                <h2>George Călinescu · Secvențe</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-    <article class="content-box" id="enigma-otiliei-lectie" data-file="assets/enigma-otiliei.txt" data-section="lectie">
-        <header class="work-header">
-            <h1>Enigma Otiliei</h1>
-            <h2>George Călinescu · Lecție</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
+        <article class="content-box" id="enigma-otiliei-eseu" data-file="assets/enigma-otiliei.txt" data-section="eseu">
+            <header class="work-header">
+                <h1>Enigma Otiliei</h1>
+                <h2>George Călinescu · Eseu</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-    <article class="content-box" id="enigma-otiliei-secvente" data-file="assets/enigma-otiliei.txt" data-section="secvente">
-        <header class="work-header">
-            <h1>Enigma Otiliei</h1>
-            <h2>George Călinescu · Secvențe</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
+        <article class="content-box" id="ultima-noapte-lectie" data-file="assets/ultima-noapte.txt" data-section="lectie">
+            <header class="work-header">
+                <h1>Ultima noapte</h1>
+                <h2>Camil Petrescu · Lecție</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-    <article class="content-box" id="enigma-otiliei-eseu" data-file="assets/enigma-otiliei.txt" data-section="eseu">
-        <header class="work-header">
-            <h1>Enigma Otiliei</h1>
-            <h2>George Călinescu · Eseu</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Roman realist <span>/</span> Text narativ de G. Călinescu</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
+        <article class="content-box" id="ultima-noapte-secvente" data-file="assets/ultima-noapte.txt" data-section="secvente">
+            <header class="work-header">
+                <h1>Ultima noapte</h1>
+                <h2>Camil Petrescu · Secvențe</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
+        <article class="content-box" id="ultima-noapte-eseu" data-file="assets/ultima-noapte.txt" data-section="eseu">
+            <header class="work-header">
+                <h1>Ultima noapte</h1>
+                <h2>Camil Petrescu · Eseu</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-<!--ULTIMA NOAPTE-->
+        <article class="content-box" id="plumb-lectie" data-file="assets/plumb.txt" data-section="lectie">
+            <header class="work-header">
+                <h1>Plumb</h1>
+                <h2>George Bacovia · Lecție</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Poezie interbelică <span>/</span> Poezie simbolistă <span>/</span> Text poetic de George Bacovia</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-    <article class="content-box" id="ultima-noapte-lectie" data-file="assets/ultima-noapte.txt" data-section="lectie">
-        <header class="work-header">
-            <h1>Ultima noapte</h1>
-            <h2>Camil Petrescu · Lecție</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
+        <article class="content-box" id="plumb-secvente" data-file="assets/plumb.txt" data-section="secvente">
+            <header class="work-header">
+                <h1>Plumb</h1>
+                <h2>George Bacovia · Secvențe</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Poezie interbelică <span>/</span> Poezie simbolistă <span>/</span> Text poetic de George Bacovia</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-    <article class="content-box" id="ultima-noapte-secvente" data-file="assets/ultima-noapte.txt" data-section="secvente">
-        <header class="work-header">
-            <h1>Ultima noapte</h1>
-            <h2>Camil Petrescu · Secvențe</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
+        <article class="content-box" id="plumb-eseu" data-file="assets/plumb.txt" data-section="eseu">
+            <header class="work-header">
+                <h1>Plumb</h1>
+                <h2>George Bacovia · Eseu</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Poezie interbelică <span>/</span> Poezie simbolistă <span>/</span> Text poetic de George Bacovia</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-    <article class="content-box" id="ultima-noapte-eseu" data-file="assets/ultima-noapte.txt" data-section="eseu">
-        <header class="work-header">
-            <h1>Ultima noapte</h1>
-            <h2>Camil Petrescu · Eseu</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Roman psihologic <span>/</span> Text narativ de Camil Petrescu</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
+        <article class="content-box" id="testament-lectie" data-file="assets/testament.txt" data-section="lectie">
+            <header class="work-header">
+                <h1>Testament</h1>
+                <h2>Tudor Arghezi · Lecție</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Poezie interbelică <span>/</span> Poezie modernistă <span>/</span> Text poetic de Tudor Arghezi</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-<!--PLUMB-->
+        <article class="content-box" id="testament-secvente" data-file="assets/testament.txt" data-section="secvente">
+            <header class="work-header">
+                <h1>Testament</h1>
+                <h2>Tudor Arghezi · Secvențe</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Poezie interbelică <span>/</span> Poezie modernistă <span>/</span> Text poetic de Tudor Arghezi</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
 
-    <article class="content-box" id="plumb-lectie" data-file="assets/plumb.txt" data-section="lectie">
-        <header class="work-header">
-            <h1>Plumb</h1>
-            <h2>George Bacovia · Lecție</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Poezie interbelică <span>/</span> Poezie simbolistă <span>/</span> Text poetic de George Bacovia</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
+        <article class="content-box" id="testament-eseu" data-file="assets/testament.txt" data-section="eseu">
+            <header class="work-header">
+                <h1>Testament</h1>
+                <h2>Tudor Arghezi · Eseu</h2>
+                <div class="work-divider"></div>
+                <p class="work-meta">Poezie interbelică <span>/</span> Poezie modernistă <span>/</span> Text poetic de Tudor Arghezi</p>
+            </header>
+            <div class="text-content"></div>
+        </article>
+    </main>
 
-    <article class="content-box" id="plumb-secvente" data-file="assets/plumb.txt" data-section="secvente">
-        <header class="work-header">
-            <h1>Plumb</h1>
-            <h2>George Bacovia · Secvențe</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Poezie interbelică <span>/</span> Poezie simbolistă <span>/</span> Text poetic de George Bacovia</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
-
-    <article class="content-box" id="plumb-eseu" data-file="assets/plumb.txt" data-section="eseu">
-        <header class="work-header">
-            <h1>Plumb</h1>
-            <h2>George Bacovia · Eseu</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Poezie interbelică <span>/</span> Poezie simbolistă <span>/</span> Text poetic de George Bacovia</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
-
-<!--TESTAMENT-->
-    <article class="content-box" id="testament-lectie" data-file="assets/testament.txt" data-section="lectie">
-        <header class="work-header">
-            <h1>Testament</h1>
-            <h2>Tudor Arghezi · Lecție</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Poezie interbelică <span>/</span> Poezie modernistă <span>/</span> Text poetic de Tudor Arghezi</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
-
-    <article class="content-box" id="testament-secvente" data-file="assets/testament.txt" data-section="secvente">
-        <header class="work-header">
-            <h1>Testament</h1>
-            <h2>Tudor Arghezi · Secvențe</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Poezie interbelică <span>/</span> Poezie modernistă <span>/</span> Text poetic de Tudor Arghezi</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
-
-    <article class="content-box" id="testament-eseu" data-file="assets/testament.txt" data-section="eseu">
-        <header class="work-header">
-            <h1>Testament</h1>
-            <h2>Tudor Arghezi · Eseu</h2>
-            <div class="work-divider"></div>
-            <p class="work-meta">Poezie interbelică <span>/</span> Poezie modernistă <span>/</span> Text poetic de Tudor Arghezi</p>
-        </header>
-        <div class="text-content"></div>
-    </article>
-
-
-</main>
-
-
-<div class="floating-actions">
+    <div class="floating-actions">
         <button id="back-to-top" type="button" aria-label="Înapoi sus" title="Înapoi sus">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="m6 15 6-6 6 6"/>
-        </svg>
-    </button>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="m6 15 6-6 6 6"/>
+            </svg>
+        </button>
 
-    <button id="download-pdf" type="button" aria-label="Salvează PDF" title="Salvează PDF">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M12 3v12"/>
-            <path d="m7 10 5 5 5-5"/>
-            <path d="M5 17v4h14v-4"/>
-        </svg>
-    </button>
-</div>
-
+        <button id="download-pdf" type="button" aria-label="Salvează PDF" title="Salvează PDF">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M12 3v12"/>
+                <path d="m7 10 5 5 5-5"/>
+                <path d="M5 17v4h14v-4"/>
+            </svg>
+        </button>
+    </div>
 </body>
+
+
 </html>
