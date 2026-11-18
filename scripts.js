@@ -2,7 +2,7 @@
 const menuToggle = document.getElementById("menu-toggle");
 const sidebar = document.getElementById("sidebar");
 const pages = document.querySelectorAll(".content-box");
-const tocLinks = document.querySelectorAll(".toc-submenu a");
+const tocLinks = document.querySelectorAll(".toc-submenu a, .toc-home");
 const tocToggles = document.querySelectorAll(".toc-toggle");
 
 const sectionNavigation = document.getElementById("section-navigation");
@@ -54,6 +54,9 @@ function expandGroup(group) {
     document.querySelectorAll(".toc-group").forEach(item => {
         const toggle = item.querySelector(".toc-toggle");
         const submenu = item.querySelector(".toc-submenu");
+
+        if (!toggle || !submenu) return;
+
         const expanded = item === group;
 
         toggle.setAttribute("aria-expanded", String(expanded));
@@ -278,7 +281,14 @@ async function showPage(pageId) {
         link.classList.toggle("active", active);
 
         if (active) {
-            expandGroup(link.closest(".toc-group"));
+            const group = link.closest(".toc-group");
+
+            if (group && group.querySelector(".toc-toggle")) {
+                expandGroup(group);
+            } else {
+                expandGroup(null);
+            }
+
             link.setAttribute("aria-current", "page");
         } else {
             link.removeAttribute("aria-current");
@@ -326,7 +336,7 @@ function navigateToPage() {
 
     const pageId = hashPage
         || savedPage
-        || "enigma-otiliei-lectie";
+        || "acasa";
 
     showPage(pageId);
 }
