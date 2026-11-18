@@ -5,6 +5,7 @@
 18-11-2026:
 - intrare Testament
 - restructurare html (/assets/opera.txt)
+- Ultima noapte (secvențe, esesu)
 
 16-11-2026: 
 - lansare
