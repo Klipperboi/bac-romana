@@ -4,7 +4,7 @@
 
 18-11-2026:
 - pagină acasă
-- intrare Testament
+- Testament final (lecție, secvențe, eseu)
 - restructurare html (/assets/opera.txt)
 - Ultima noapte (secvențe, eseu)
 - Plumb (secvențe, eseu)
