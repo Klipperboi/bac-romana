@@ -4,6 +4,7 @@
 
 18-11-2026:
 - intrare Testament
+- restructurare html (/assets/opera.txt)
 
 16-11-2026: 
 - lansare
