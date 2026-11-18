@@ -7,6 +7,7 @@
 - intrare Testament
 - restructurare html (/assets/opera.txt)
 - Ultima noapte (secvențe, eseu)
+- Plumb (secvențe, eseu)
 
 16-11-2026: 
 - lansare
