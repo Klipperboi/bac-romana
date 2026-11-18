@@ -2,11 +2,111 @@
 
 # Cerință
 
-### În curs de redactare
+Redactează un eseu de minimum 400 de cuvinte, în care să prezinți:
+
+- particularități ale unui text poetic studiat, aparținând lui George Bacovia
+
+- particularități ale unui text poetic studiat, aparținând simbolismului
 
 # Structură
 
-### În curs de redactare
+## 1. Perioada interbelică
+
+- **Perioada interbelică**, puternic marcată de confruntarea dintre modernism și tradiționalism
+
+- moment de sincronizare a literaturii române cu literatura europeană, dar și de valorificare a influențelor autohtone
+
+## 2. Prezentarea scriitorului
+
+- **George Bacovia** aduce în poezia românească un nou tip de sensibilitate
+
+- imaginarul poetic construiește un spațiu dominat de tristețe, singurătate și așteptarea anxioasă a morții
+
+- folosește toată recuzita simbolismului, exprimând o viziune originală și autentică asupra vieții
+
+- debutează în anul **1916** cu volumul *„Plumb”*, care se deschide cu poezia omonimă
+
+## 3. Încadrarea operei în curent
+
+Opera aparține **simbolismului**, prin:
+
+- teme și motive specifice
+
+- prezența sugestiei, a simbolului și a corespondențelor
+
+- muzicalitate și senzații reunite în sinestezii
+
+## 4. Tema
+
+- **condiția umană**, dominată de singurătate și supusă în fața morții *(temă simbolistă)*
+
+## 5. Compoziția
+
+- **2 catrene**, cu **rimă îmbrățișată**, **ritm iambic** și **măsură de 10 silabe**
+
+- **2 planuri** aflate în relație de simetrie:
+
+    1. planul exterior *(al realității)*
+
+    2. planul interior *(al eului liric)*
+
+- **corespondența simbolistă** dintre planul material și cel afectiv *(macrounivers – microunivers)*, realizată prin:
+
+    - paralelism sintactic (*„Dormeau adânc sicriele de plumb”* / *„Dormea întors amorul meu de plumb”*)
+
+    - elemente comune *(verbul „a dormi”, câmpul semantic al morții, motivul „plumb”)*
+
+- **rolurile substantivului „plumb”:**
+
+    - laitmotiv și titlu al poeziei
+
+    - creează muzicalitatea textului *(repetiția de patru ori în rimă)* și sugerează prăbușirea prin sonoritatea consoanelor *„mb”*
+
+    - creează o **sinestezie**: senzație cromatică *(gri)* + senzații tactile *(greutate, răceală, rigiditate)*
+
+    - simbol al singurătății, tristeții și morții
+
+## 6. Prezentarea secvențelor
+
+### a) Prima secvență (strofa I) – planul exterior
+
+- imaginea unui univers monoton, lipsit de viață, sumbru și dominat de moarte
+
+- **motivul central „cavou”** – simbol al spațiului închis, claustrant *(trupul, camera, orașul, societatea, universul)*
+
+- sugestia morții ca stăpână a universului *(verbul „a dormi” + epitetul „adânc”, câmpul semantic al morții, epitetul metaforic „de plumb”, motivul vântului)*
+
+- **verbul onomatopeic „scârțâiau”** – lume ostilă, generatoare de nevroză
+
+- **eul liric** – prezent într-un singur emistih *(condiție limitată)*, în ipostaza generală a omului confruntat cu iminența morții
+
+### b) Secvența a doua (strofa a II-a) – planul interior
+
+- transferă meditația în planul interior, sugerând **moartea sufletească**
+
+- verbul *„dormea”* + epitetul *„întors”* $\Rightarrow$ un somn nefiresc
+
+- **2 motive dominante:**
+
+    - *„amorul meu de plumb”* – stingerea iubirii
+
+    - *„aripele de plumb”* – simbol paradoxal al prăbușirii în neantul morții
+
+- **eul liric** – trece de la revoltă și încercarea de salvare (*„am început să-l strig”*) la resemnare și acceptarea neputinței (*„Stam singur lângă mort”*)
+
+## 7. Stilul – sugestia la toate nivelurile textului
+
+- **nivel fonetic:** vocalele închise *„u”* și *„î”* *(atmosferă tristă, apăsătoare)*
+
+- **nivel lexical:** câmpul lexical al morții (*„sicriele”*, *„cavou”*, *„coroanele”*)
+
+- **nivel morfologic:** ponderea substantivelor *(lume haotică)*; verbe puține, de stare, la timpul imperfect *(inerție, pasivitate, eternitatea exasperantă a morții)*
+
+- **nivel sintactic:** coordonare copulativă; linii de pauză și puncte de suspensie *(sincopă, cădere inevitabilă)*
+
+## 8. Încheierea
+
+- **Așadar**, *„Plumb”* de George Bacovia este o poezie simbolistă prin atmosfera sumbră, muzicalitate, folosirea sugestiei, a simbolului și a corespondențelor, redând într-o manieră autentică singurătatea și neliniștea ființei în fața morții.
 
 === SECVENTE ===
 
