@@ -1,0 +1,33 @@
+=== ACASA ===
+
+# Despre proiect
+
+Suma operelor literare pentru bacalaureat, profil real.
+
+Fiecare operă este împărțită în trei secțiuni:
+
+- **Lecție** – cerință și structura eseului
+- **Secvențe** – secvențele relevante (caracterizare și teme), dezvoltate pentru eseu
+- **Eseu** – redactare completă
+
+Materialele sunt realizate și redactate în colaborare; pentru fiecare operă este publicată o singură variantă „de-a gata”.
+
+# Contribuitori
+
+- Argatu Ioan
+
+# Ultimele actualizări
+
+*18-11-2026*
+- pagină acasă
+- intrare Testament
+- restructurare html (/assets/opera.txt)
+- Ultima noapte (secvențe, eseu)
+
+*16-11-2026*
+- lansare
+- Enigma Otiliei final (lecție, secvențe, eseu)
+- intrare Ultima noapte, Plumb
+
+  
+*Changelog & fișiere: [GitHub](https://github.com/Klipperboi/bac-romana/tree/main)*
