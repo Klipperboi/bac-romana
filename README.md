@@ -3,9 +3,10 @@
 ](https://klipperboi.github.io/bac-romana/)
 
 18-11-2026:
+- pagină acasă
 - intrare Testament
 - restructurare html (/assets/opera.txt)
-- Ultima noapte (secvențe, esesu)
+- Ultima noapte (secvențe, eseu)
 
 16-11-2026: 
 - lansare
