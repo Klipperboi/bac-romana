@@ -7,5 +7,5 @@
 
 16-11-2026: 
 - lansare
-- Enigma Otiliei final
+- Enigma Otiliei final (lecție, secvențe, eseu)
 - intrare Ultima noapte, Plumb
