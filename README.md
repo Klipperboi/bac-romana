@@ -2,6 +2,9 @@
 [Bac Română
 ](https://klipperboi.github.io/bac-romana/)
 
+19-11-2026:
+- intrare Baltagul
+
 18-11-2026:
 - pagină acasă
 - Testament final (lecție, secvențe, eseu)
