@@ -14,20 +14,16 @@ Materialele sunt realizate și redactate în colaborare; pentru fiecare operă e
 
 # Contribuitori
 
-- Argatu Ioan
+- [Argatu Ioan](https://www.instagram.com/argatu.ioan/)
 - Corbu Mihaela
 
 # Ultimele actualizări
 
-*19-11-2026*
-- intrare Baltagul
+*20-11-2026*
+- secține opere (*Plumb, Testament, Corola*)
 
-*18-11-2026*
-- pagină acasă
-- Testament final (lecție, secvențe, eseu)
-- restructurare html (/assets/opera.txt)
-- Ultima noapte (secvențe, eseu)
-- Plumb final (lecție, secvențe, eseu)
+*19-11-2026*
+- intrare *Corola*
 
   
 *Changelog & fișiere: [GitHub](https://github.com/Klipperboi/bac-romana/tree/main)*
