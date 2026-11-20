@@ -8,7 +8,9 @@ Fiecare operă este împărțită în trei secțiuni:
 
 - **Lecție** – cerință și structura eseului
 - **Secvențe** – secvențele relevante (caracterizare și teme), dezvoltate pentru eseu
-- **Eseu** – redactare completă
+- **Eseu** – redactare completă  
+  
+Pentru poeziile studiate, în secțiunea **Operă** se găsește textul poeziei.
 
 Materialele sunt realizate și redactate în colaborare; pentru fiecare operă este publicată o singură variantă „de-a gata”.
 
