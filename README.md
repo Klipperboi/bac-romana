@@ -2,8 +2,11 @@
 [Bac Română
 ](https://klipperboi.github.io/bac-romana/)
 
+20-11-2026:
+- secține opere (Plumb, Testament, Corola)
+
 19-11-2026:
-- intrare Baltagul
+- intrare Corola
 
 18-11-2026:
 - pagină acasă
