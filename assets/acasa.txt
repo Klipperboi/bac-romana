@@ -4,13 +4,14 @@
 
 Suma operelor literare pentru bacalaureat, profil real.
 
-Fiecare operă este împărțită în trei secțiuni:
+Fiecare operă este împărțită în patru secțiuni:
 
+- **Operă** - textul operei literare (*)
 - **Lecție** – cerință și structura eseului
 - **Secvențe** – secvențele relevante (caracterizare și teme), dezvoltate pentru eseu
 - **Eseu** – redactare completă  
   
-Pentru poeziile studiate, în secțiunea **Operă** se găsește textul poeziei.
+(*)Pentru poeziile studiate, în secțiunea **Operă** se găsește textul poeziei. Pentru proză, se găsește un link pentru descărcarea cărții în format PDF.
 
 Materialele sunt realizate și redactate în colaborare; pentru fiecare operă este publicată o singură variantă „de-a gata”.
 
@@ -20,6 +21,9 @@ Materialele sunt realizate și redactate în colaborare; pentru fiecare operă e
 - Corbu Mihaela
 
 # Ultimele actualizări
+
+*25-11-2026*
+- secțiune opere (*Enigma, Ultima noapte*)
 
 *20-11-2026*
 - secțiune opere (*Plumb, Testament, Corola*)
