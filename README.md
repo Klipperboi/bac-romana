@@ -3,7 +3,7 @@
 ](https://klipperboi.github.io/bac-romana/)
 
 20-11-2026:
-- secține opere (Plumb, Testament, Corola)
+- secțiune opere (Plumb, Testament, Corola)
 
 19-11-2026:
 - intrare Corola
