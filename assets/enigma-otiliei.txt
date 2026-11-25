@@ -1,6 +1,6 @@
 === OPERĂ ===
 
-<a href="/proza/enigma-otiliei.pdf" download>Descarcă ebook-ul "Enigma Otiliei" de George Călinescu (PDF)</a>
+<a href="/assets/proza/enigma-otiliei.pdf" download>Descarcă ebook-ul "Enigma Otiliei" de George Călinescu (PDF)</a>
 
 === LECTIE ===
 
