@@ -17,16 +17,94 @@ aşa îmbogăţesc şi eu întunecata zare
 cu largi fiori de sfânt mister  
 şi tot ce-i neînţeles  
 se schimbă-n neînţelesuri şi mai mari  
-sub ochii mei-  
+sub ochii mei -  
 căci eu iubesc  
 şi flori şi ochi şi buze şi morminte.  
 
 === LECTIE ===
 # Cerință
-### În curs de redactare
+Redactează un eseu de minimum 400 de cuvinte, în care să prezinți:
+
+- particularități ale unui text poetic studiat, aparținând lui Lucian Blaga
+- particularități ale unui text poetic studiat, aparținând modernismului
 
 # Structură
+## 1. Perioada interbelică
+**Perioada interbelică**, puternic marcată de confruntarea dintre modernism și tradiționalism, reprezintă un moment fast pentru literatura română, care se sincronizează cu cea europeană, păstrând însă legăturile cu tradiția.
+
+## 2. Expresionismul
+**Expresionismul** este un curent artistic modernist, care a apărut în Germania, la începutul secolului al XX-lea.
+
 ### În curs de redactare
+
+## 3. Prezentarea scriitorului
+**Lucian Blaga** este o personalitate complexă a culturii române, filosof și scriitor, reprezentant al expresionismului literar. Ca filosof, este creatorul unui sistem în centrul căruia se află teoria cunoașterii, distingând între cunoașterea *paradisiacă* (plus-cunoaștere) și cea *luciferică* (minus-cunoaștere). Ca poet, a debutat în anul 1919, cu volumul *„Poemele luminii”*, care se deschide cu poezia *„Eu nu strivesc corola de minuni a lumii”*.
+
+## 4. Încadrarea în modernism
+Opera aparține modernismului prin:
+- intelectualizarea lirismului (tematica filosofică)
+- eul liric impersonal
+- preferința pentru metafore
+- inovațiile prozodice (versul liber și ingambamentul)
+- elementele expresioniste
+
+## 5. Temele
+- **creația poetică** văzută ca mijloc de a accede la misterul universal
+- **cunoașterea**
+
+⇒ poezia este o **artă poetică** (specie a genului liric care exprimă viziunea autorului asupra procesului de creație)
+
+## 6. Compoziția
+- din punct de vedere prozodic, textul este **modernist**, deoarece:
+    - nu este organizat în strofe
+    - se folosește versul liber (nu este supus rigorilor formale clasice: rimă, ritm, măsură)
+    - se remarcă prezența ***ingambamentului***
+        - un procedeu prin care ideea poetică nu se încheie la sfârșitul versului, ci continuă în următorul
+        - marcat prin scrierea cu literă mică la începutul unor versuri
+        - asigură fluența ideii
+        - accentuează tensiunea lirică
+
+### Discursul liric
+- este format din două planuri, aflate în opoziție:
+    - planul cunoașterii poetice / „luciferice” / „minus-cunoaștere”
+    - planul cunoașterii raționale / „paradisiace” / „plus-cunoaștere”
+- opoziția este realizată prin mai multe mijloace:
+    - gramaticale: *„eu” - „alții” (eul liric - oamenii obișnuiți)*
+    - lexico-semantice: *verbele „nu strivesc”, „nu ucid”, „sporesc”, „îmbogățesc”, „iubesc” - „sugrumă”*
+    - stilistice: *metaforele „lumina mea” - „lumina altora”*
+
+## 7. Prezentarea secvențelor
+### a) Primul plan
+- ilustrează tema creației poetice, văzută ca o modalitate de cunoaștere a lumii
+- motivul central - *„lumina mea”* - metaforă revelatorie a cunoașterii luciferice
+- ***incipitul***
+    - reia titlul
+    - constituie un element de recurență
+    - exprimă ideea poetică centrală, sugerând relația armonioasă a poetului cu misterul universal
+- metafora *„corola de minuni a lumii”*  
+    ⇒ frumusețea, fragilitatea și perfecțiunea misterului universal, prin asocierea cu o floare
+    - reprezintă obiectul cunoașterii poetice
+        - acesta este detaliat prin enumerația *„în flori, în ochi, pe buze ori morminte”*, care ilustrează componenta fizică a misterului *(flori - natură, ochi - omul)*, componenta afectivă *(buze)* și cea metafizică / transcendentă *(morminte)*
+        - ideea este susținută de câmpul semantic al tainei *(tainele, mister, neînțeles)*
+- ***lirismul subiectiv*** este determinat de prezența numeroaselor mărci ale eului liric: pronumele personal *(„eu”, care constituie o repetiție)*, adjectivul pronominal posesiv *„mea”*, verbele la persoana I *(nu strivesc, întâlnesc)*
+    - în **manieră modernistă**, eul liric se află într-o ipostază impersonală, reprezentând poetul care, prin creația sa, sporește / amplifică misterul lumii
+    - poezia este un monolog confesiv, însă confesiunea nu are un caracter biografic sau anecdotic, ci un sens ontologic, exprimând relația eului cu universul
+    - comparația amplă a cunoașterii cu lumina lunii atenuează opoziția dintre lumină și întuneric, sugerând efectul blând al poetului asupra universului prin actul său creator:
+        <div class="poem-quote">„şi-ntocmai cum cu razele ei albe luna<br>nu micşorează, ci tremurătoare<br>măreşte şi mai tare taina nopţii,<br>aşa îmbogăţesc şi eu întunecata zare<br>cu largi fiori de sfânt mister”</div>  
+    - verbele constituie o enumerație în gradație ascendentă și accentuează ideea demersului benefic al poetului asupra universului: păstrarea / conservarea misterului *(nu strivesc, nu ucid)* și amplificarea acestuia *(sporesc, îmbogățesc)*
+
+### b) Planul al doilea
+- ilustrează imaginea cunoașterii paradisiace, prin metafora *„lumina altora”*, și efectul distructiv al acesteia, concentrat în verbul *„sugrumă”*
+- se remarcă preferința pentru metaforele revelatorii, trăsătură a modernismului
+
+### Finalul
+- are o valoare concluzivă și prezintă actul de creație ca pe o manifestare a iubirii față de lume *(„eu iubesc”)*
+    - reluarea enumerației *„și flori și ochi și buze și morminte”* determină structura simetrică a poeziei
+
+## 8. Limbajul poetic
+- evidențiază modernismul operei
+- la nivel stilistic, predomină metaforele
+- la nivel prozodic, se remarcă folosirea versului liber și a ingambamentului
 
 === SECVENTE ===
 ### În curs de redactare
