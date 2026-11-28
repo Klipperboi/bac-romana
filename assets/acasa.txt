@@ -22,12 +22,11 @@ Materialele sunt realizate și redactate în colaborare; pentru fiecare operă e
 
 # Ultimele actualizări
 
+*28-11-2026*
+- lecție Corola
+
 *25-11-2026*
 - secțiune opere (*Enigma, Ultima noapte*)
 - Ultima noapte final (lecție, secvențe, eseu)
-
-*20-11-2026*
-- secțiune opere (*Plumb, Testament, Corola*)
-
 
 *Changelog & fișiere: [GitHub](https://github.com/Klipperboi/bac-romana/tree/main)*
