@@ -2,6 +2,9 @@
 [Bac Română
 ](https://klipperboi.github.io/bac-romana/)
 
+28-11-2026:
+- lecție Corola
+
 25-11-2026:
 - secțiune opere (Enigma, Ultima noapte)
 
